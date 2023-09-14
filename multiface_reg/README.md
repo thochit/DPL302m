@@ -64,12 +64,17 @@ python face_reg.py
 ```
 Follow the on-screen instructions to perform face recognition.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Contributing
 
-Acknowledgments
-facenet-pytorch - Pre-trained face recognition models
-scikit-learn - Machine learning library
-OpenCV - Computer vision library
-Feel free to customize this README to include additional information about your project, such as usage examples, troubleshooting tips, or any other relevant details.
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For any inquiries or further information, please reach out to us at thochit2762003@gmail.com.
+
+---
 
