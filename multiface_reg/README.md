@@ -15,7 +15,7 @@ Before running the project, make sure you have the following Python packages ins
 
 You can install these packages using pip:
 
-```bash
+```shell
 pip install numpy opencv-python scikit-learn facenet-pytorch torch joblib
 
 ## Usage
