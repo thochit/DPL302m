@@ -46,9 +46,10 @@ Run the following command:
 ```bash
 python train.py
 ```
+
 The training process will start, and the trained model will be saved as svm_classifier_model.joblib using joblib.
 
-###Face Recognition (face_reg.py)
+### Face Recognition (face_reg.py)
 
 To recognize faces after capturing and training, follow these steps:
 
@@ -60,7 +61,7 @@ Run the following command:
 
 ```bash
 python face_reg.py
-
+```
 Follow the on-screen instructions to perform face recognition.
 
 License
