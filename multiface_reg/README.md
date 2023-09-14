@@ -17,7 +17,7 @@ You can install these packages using pip:
 
 ```shell
 pip install numpy opencv-python scikit-learn facenet-pytorch torch joblib 
-
+```
 ## Usage
 ### Capture Faces (capture_face.py)
 
@@ -31,7 +31,7 @@ Run the following command:
 
 ```bash
 python capture_face.py
-
+```
 Follow the on-screen instructions to capture faces. The captured face images will be stored in a folder named face_crops.
 
 ### Train the Model (train.py)
@@ -45,7 +45,7 @@ Run the following command:
 
 ```bash
 python train.py
-
+```
 The training process will start, and the trained model will be saved as svm_classifier_model.joblib using joblib.
 
 ###Face Recognition (face_reg.py)
